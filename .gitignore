@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# outputs / docking artifacts
+outputs/
+logs/
+data/
+*.pdb
+*.pdbqt
+*.mol2
+*.sdf
